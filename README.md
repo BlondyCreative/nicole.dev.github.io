@@ -29,29 +29,29 @@ Here are three strong repositories that represent my backend and full‑stack sk
 A high-fidelity financial services dashboard built with JavaScript and React designed for efficient money management.
 Key Features: Implements real-time secure transaction handling, dynamic data visualization for tracking metrics, and an intuitive user interface for managing financial portfolios.
 
-Tech Stack: JavaScript, React, CSS3, REST APIs.
-👉 https://github.com/BlondyCreative/electronicWeb
+Tech Stack: JavaScript, React, REST APIs.
+👉 https://github.com/BlondyCreative/financeDashboard
 
 🔗 2. Automated CRM Platform 
 An intelligent Customer Relationship Management platform engineered to monitor and analyze consumer interactions in real time.
 Key Features: Features a custom integration with Node-RED to capture live user events, automatically updating customer profiles and logging behavioral data whenever items are added to a shopping cart.
 
-Tech Stack: Node.js, JavaScript, Node-RED, REST APIs.
-👉 https://github.com/BlondyCreative/webHealth
+Tech Stack: Vite, JavaScript, MySQL, Node-RED, REST APIs.
+👉 https://github.com/BlondyCreative/CRM-Products
 
 🔗 3. AI Chatbot Integration (Health Sector API)
 A robust Laravel REST API designed for the healthcare sector to optimize patient management workflows.
 Key Features: Integrates a conversational AI chatbot to streamline patient communication, paired with secure medical database management and strict data validation protocols.
 
-Tech Stack: PHP (Laravel), AI/LLM API Integration, MySQL.
-👉 https://github.com/BlondyCreative/bankWeb
+Tech Stack: PHP (Laravel), AI/LLM Gemini API Integration, MySQL.
+👉 https://github.com/BlondyCreative/chatAI
 
 🔗 2. Full-Stack E-Commerce Web App (Electronic Web)
 A complete, production-ready full-stack application focused on product management and seamless user workflows.
 Key Features: Built with robust authentication middleware, automated database migrations, advanced image upload handling, and a clean backend architecture.
 
 Tech Stack: PHP (Laravel), Blade, MySQL, JavaScript.
-👉 https://github.com/BlondyCreative/bankWeb
+👉 https://github.com/BlondyCreative/electronicApp
 
 
 I'm seeking opportunities to work on high-performance projects to improve and keep learning. I'm excited to hear your project and discuss real solutions. 🤝🏻

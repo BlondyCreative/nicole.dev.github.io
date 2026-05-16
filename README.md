@@ -54,10 +54,11 @@ Tech Stack: PHP (Laravel), Blade, MySQL, JavaScript.
 👉 https://github.com/BlondyCreative/bankWeb
 
 
-I'm seeking opportunities to work on high-performance projects to improve and keep learning. I'm excited to hear your project and discuss real solutions!. 🤝🏻
+I'm seeking opportunities to work on high-performance projects to improve and keep learning. I'm excited to hear your project and discuss real solutions. 🤝🏻
 
 
 Other Networks:
 
 📩 Email: [nicole.develop@gmail.com]
+
 💼 LinkedIn: [https://www.linkedin.com/in/nicole-rodriguez-615b87352/?locale=en]

@@ -1,4 +1,4 @@
-My name is Nicole and i'm a Full-Stack Software Engineer specializing in building secure, scalable, and high-performance web applications. Proficient across the entire development lifecycle, from designing robust backend REST APIs and database schemas to crafting responsive, intuitive user interfaces. Passionate about integrating artificial intelligence and automation to optimize business tools and real-time digital experiences.
+My name is Nicole and i'm a Full-Stack Software Engineer specializing in developing secure, scalable, and high-performance webs, and mobile applications. Proficient across the entire development lifecycle, from designing robust backend REST APIs and database schemas to crafting responsive, intuitive user interfaces. Passionate about integrating artificial intelligence and automation to optimize business tools and real-time digital experiences.
 
 ⚙️ Technical Skills
 Backend Development
